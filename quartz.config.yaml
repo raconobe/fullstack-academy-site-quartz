@@ -2,12 +2,12 @@
 configuration:
   pageTitle: WEB Academy -      Quartz 5
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quarz.netlify.app
+  baseUrl: web
   ignorePatterns:
     - private
     - templates
