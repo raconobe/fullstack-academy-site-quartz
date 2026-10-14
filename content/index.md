@@ -10,8 +10,6 @@ Full-Stack Web Development, Programming Languages, Git, and Modern Web Architect
 ---
 
 
-
-
 # 🚀 WEB Academy
 
 Welcome to your central hub for full-stack web development, programming languages, and practical software engineering guides. This digital garden contains structured course materials, practical code snippets, and reference documentation.
