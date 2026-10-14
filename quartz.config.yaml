@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: web
+  baseUrl: "quarz.netlify.app"
   ignorePatterns:
     - private
     - templates
