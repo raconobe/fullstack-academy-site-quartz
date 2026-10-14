@@ -7,3 +7,4 @@
   to = "/:splat.html"
   status = 200
   force = false
+  conditions = {Path = ["!/*.js", "!/*.css", "!/*.png", "!/*.jpg", "!/*.svg", "!/*.json"]}
