@@ -1,0 +1,5 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "web-academy-md-quartz", // Change this to your desired URL prefix
+  "pages_build_output_dir": "./public"
+}
