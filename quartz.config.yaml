@@ -1,14 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: WEB Academy -      Quartz 5
+  pageTitle: WEB Academy - Quartz 5
   pageTitleSuffix: ""
   enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  # baseUrl: "web-academy-md-quartz.raconobe.workers.dev"
-  baseUrl: process.env.BASE_URL || "web-academy-md-quartz.raconobe.workers.dev"
+  baseUrl: "web-academy-md-quartz.raconobe.workers.dev"
   ignorePatterns:
     - private
     - templates
