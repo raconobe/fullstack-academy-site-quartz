@@ -35,7 +35,7 @@ jobs:
 
       - name: Build Quartz
         env:
-          BASE_URL: web-academy-md-quartz.raconobe.workers.dev
+          BASE_URL: raconobe.github.io/fullstack-academy-site-quartz
         run: npx quartz build
 
       - name: Upload artifact
