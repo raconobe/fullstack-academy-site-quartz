@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "raconobe.github.io/fullstack-academy-site-quartz"
+  baseUrl: "web-academy-md-quartz.raconobe.workers.dev"
   ignorePatterns:
     - private
     - templates
