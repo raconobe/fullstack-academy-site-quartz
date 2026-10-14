@@ -1,7 +1,7 @@
 [build]
   command = "npx quartz plugin install && npx quartz build"
   publish = "public"
-
+  
 [[redirects]]
   from = "/*"
   to = "/:splat.html"
