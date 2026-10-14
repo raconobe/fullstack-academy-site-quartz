@@ -8,9 +8,7 @@ target_completion: 2026-12-31
 tags:
   - learning-path
   - java
-slug: java-course-tracker
 ---
-
 
 # ☕ Learning Path: Java Mastery
 
