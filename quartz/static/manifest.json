@@ -1,0 +1,21 @@
+{
+  "name": "WEB Academy",
+  "short_name": "WEB Academy",
+  "description": "Full-Stack Web Development, Programming Languages, Git, and Modern Web Architecture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
